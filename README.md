@@ -1,141 +1,168 @@
-# ARIQ.DEV — Digital Builder & Tech Tinkerer
+# `riixs4K` — BUILDING THINGS DIFFERENTLY.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0d0d0d&text=ARIQ.DEV&fontColor=F2EEE9&fontSize=55&fontAlignY=45&desc=BUILD.%20BREAK.%20UNDERSTAND.%20REBUILD.&descAlignY=72&descSize=13&animation=fadeIn" width="100%" alt="ARIQ.DEV banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=E9FF70&fontColor=171717&text=riixs4K&fontSize=65&fontAlignY=42&desc=CODE.%20CIRCUITS.%20CHAOS.&descSize=17&descAlignY=70&animation=fadeIn" width="100%" alt="riixs4K Neo-brutalist banner"/>
 </p>
 
 <p align="center">
-  <code>SOFTWARE</code> &nbsp;·&nbsp;
-  <code>HARDWARE</code> &nbsp;·&nbsp;
-  <code>EXPERIMENTS</code>
+  <strong>INDEPENDENT BUILDER / TECH ENTHUSIAST / PROFESSIONAL EXPERIMENTER</strong>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-171717?style=for-the-badge&labelColor=E9FF70" alt="Always building"/>
+  <img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-171717?style=for-the-badge&labelColor=FF8A65" alt="Experimental mode"/>
+</p>
+
+---
+
+## `01. WHO AM I?`
+
+> I DON'T JUST USE TECHNOLOGY. I TAKE IT APART TO UNDERSTAND IT.
+
+I'm **Ariiq**, a tech enthusiast who enjoys building things from scratch — from web applications and developer tools to electronic experiments and embedded systems.
+
+I learn by doing, break things while experimenting, and figure out why they broke.
+
+- **BUILD** — Turning random ideas into working projects.
+- **EXPLORE** — Software, electronics, IoT, and everything in between.
+- **EXPERIMENT** — Testing unconventional ideas instead of blindly following templates.
+- **REBUILD** — Making things better after figuring out what went wrong.
+
+<p align="center">
+  <strong>CURIOSITY IS THE ENGINE. DEBUGGING IS THE PROCESS.</strong>
+</p>
+
+---
+
+## `02. MY TOOLBOX`
+
+### SOFTWARE / WEB
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi&theme=light" alt="HTML CSS JavaScript Python FastAPI"/>
+</p>
+
+### TOOLS / WORKFLOW
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase&theme=light" alt="Git GitHub VS Code Firebase"/>
+</p>
+
+### HARDWARE / LOW-LEVEL EXPERIMENTS
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-171717?style=for-the-badge&logo=espressif&logoColor=E9FF70" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/IoT-171717?style=for-the-badge&logo=internetofthings&logoColor=E9FF70" alt="IoT"/>
+  <img src="https://img.shields.io/badge/ELECTRONICS-171717?style=for-the-badge&logo=arduino&logoColor=E9FF70" alt="Electronics"/>
+</p>
+
+*The toolbox changes. The curiosity doesn't.*
+
+---
+
+## `03. THINGS I'M BUILDING`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### [01] GITCANVAS
+
+**DEVELOPER TOOLS**
+
+Exploring GitHub activity visualization and automation through a custom-built dashboard.
+
+`PYTHON` `FASTAPI` `JAVASCRIPT`
+
+    </td>
+    <td width="50%" valign="top">
+
+### [02] TOURING TOGETHER
+
+**LOCATION-BASED APP**
+
+A touring companion concept built around location sharing, individual navigation, and connected journeys.
+
+`HTML` `JAVASCRIPT` `FIREBASE`
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### [03] EMBEDDED LAB
+
+**HARDWARE EXPERIMENTS**
+
+Working with ESP32, displays, electronic components, and embedded project ideas.
+
+`ESP32` `C/C++` `IOT`
+
+    </td>
+    <td width="50%" valign="top">
+
+### [04] DUITKU
+
+**INTERFACE EXPERIMENTS**
+
+Exploring a distinctive personal finance interface with clearer information hierarchy and practical interactions.
+
+`UI/UX` `FRONTEND`
+
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <em>Some projects are experiments. Some become tools. All of them teach something.</em>
+</p>
+
+---
+
+## `04. GITHUB / THE ACTIVITY LOG`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=E9FF70&title_color=171717&text_color=171717&icon_color=171717" height="170" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FF8A65&title_color=171717&text_color=171717" height="170" alt="Top programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=171717&ring=E9FF70&fire=FF8A65&currStreakLabel=E9FF70&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="100%" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## `05. THE PHILOSOPHY`
+
+<blockquote>
+  <strong>DON'T BUILD TO LOOK SMART.</strong>
+
+  <br/>
+
+  BUILD TO UNDERSTAND SOMETHING YOU DIDN'T UNDERSTAND YESTERDAY.
+</blockquote>
+
+I believe the best way to learn technology is to get your hands dirty. Read the documentation, test the idea, make mistakes, debug the mess, and try again.
+
+No magic. No shortcuts pretending to be knowledge. Just curiosity and iteration.
+
+---
+
+## `06. FIND ME`
+
+<p>
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=F2EEE9" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS_EXPERIMENTING-6D2838?style=for-the-badge" alt="Always experimenting"/>
-</p>
-
----
-
-### `01 / ABOUT`
-
-I'm **Moch Ariiq Aditya**, a developer and tech tinkerer who enjoys exploring how things work — from lines of code to circuits and connected devices.
-
-I like building things from scratch, experimenting with unconventional ideas, and turning random concepts into functional projects.
-
-I don't just want to use technology. I want to understand it, modify it, and build something of my own.
-
-- `//` Exploring software development and web technologies.
-- `//` Experimenting with electronics, ESP32, and IoT.
-- `//` Building tools that solve real problems.
-- `//` Learning through experimentation, debugging, and rebuilding.
-
-> **Build things. Break assumptions. Understand the system.**
-
----
-
-### `02 / TECH STACK`
-
-**LANGUAGES & WEB**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" alt="HTML, CSS, JavaScript and Python"/>
-</p>
-
-**BACKEND & TOOLS**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,firebase&theme=dark" alt="FastAPI, Git, GitHub, VS Code and Firebase"/>
-</p>
-
-**HARDWARE & EXPERIMENTS**
-
-<p>
-  <img src="https://img.shields.io/badge/ESP32-303030?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/IoT-303030?style=flat-square&logo=internetofthings&logoColor=FFFFFF" alt="IoT"/>
-  <img src="https://img.shields.io/badge/Electronics-303030?style=flat-square&logo=arduino&logoColor=00979D" alt="Electronics"/>
-  <img src="https://img.shields.io/badge/REST_API-303030?style=flat-square&logo=fastapi&logoColor=009688" alt="REST API"/>
-</p>
-
-*My toolkit evolves as I build, experiment, and discover better ways to do things.*
-
----
-
-### `03 / SELECTED PROJECTS`
-
-#### `01` — GitCanvas
-**GitHub Activity & Automation**
-
-An experimental project focused on GitHub activity visualization, contribution graph customization, Gitfiti, and developer activity tools.
-
-`Python` `FastAPI` `JavaScript` `WebSocket`
-
-#### `02` — Touring Together
-**A Connected Touring Experience**
-
-An application concept for group touring, live location sharing, individual navigation, and coordinated journeys.
-
-`HTML` `CSS` `JavaScript` `Firebase` `GPS`
-
-#### `03` — Embedded Experiments
-**From Code to Circuits**
-
-Personal experiments with ESP32, electronic components, displays, and connected hardware.
-
-`ESP32` `C/C++` `IoT` `Electronics`
-
-#### `04` — DuitKu
-**Personal Finance UI Concept**
-
-A personal finance interface concept focused on a more distinctive visual system and clearer separation between savings and expenses.
-
-`UI/UX` `JavaScript` `Frontend`
-
-#### `05` — Small Tools & Experiments
-**Ideas That Turn Into Code**
-
-A collection of experiments, prototypes, utilities, and small projects created to explore new ideas and solve specific problems.
-
-`Python` `Web` `Automation` `Open Source`
-
-<p align="center">
-  <i>Projects evolve. Experiments become experience.</i>
-</p>
-
----
-
-### `04 / GITHUB ACTIVITY`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F2EEE9&text_color=A8A29E&icon_color=9B455B&ring_color=9B455B" alt="GitHub profile statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F2EEE9&text_color=A8A29E" alt="Most used programming languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D0D0D&ring=9B455B&fire=9B455B&currStreakLabel=F2EEE9&sideLabels=A8A29E&currStreakNum=F2EEE9&sideNums=F2EEE9&dates=777777" width="100%" alt="GitHub contribution streak"/>
-</p>
-
----
-
-### `05 / CONNECT`
-
-Got an interesting idea, a technical question, or a project worth experimenting with? Let's connect.
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-0D0D0D?style=for-the-badge&logo=github&logoColor=F2EEE9" alt="Explore my GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=E9FF70" alt="GitHub"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6D2838?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-E9FF70?style=for-the-badge&logo=vercel&logoColor=171717" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>DESIGNED BY CURIOSITY · BUILT THROUGH EXPERIMENTATION</sub>
+  <strong>riixs4K © — MADE THROUGH CURIOSITY.</strong>
   <br/>
-  <sub>© ARIQ.DEV — Keep building.</sub>
+  <sub>LESS TALK. MORE BUILDING.</sub>
 </p>
